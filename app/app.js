@@ -158,7 +158,7 @@ html{
 	margin: 0.5em 0;
 }
 .resumeEditor a{
-	color: #000;
+	color: #112D4E;
 }
 .resumeEditor ul{
 	list-style: none;

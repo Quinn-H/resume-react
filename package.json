@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Quinn-H/resume-react.git"
   },
-  "homepage": "https://github.com/Quinn-H/resume-react.git",
+  "homepage": "https://github.com/Quinn-H/resume-react",
   "devDependencies": {
     "babel-core": "^6.23.1",
     "babel-loader": "^6.3.2",
